@@ -7,12 +7,12 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### Contents
 
-* [0. Papers](#1.papers)
+* [0. Papers](#papers)
 * [1. Preprints](#preprints)
 * [Acknowledgements](#acknowledgements)
 
 
-## 1. Papers
+## Papers
 1. **Leveraging an Efficient and Semantic Location Embedding to Seek New Ports of Bike Share Services**. *Wang, Yuan, Chenwei Wang, Yinan Ling, Keita Yokoyama, Hsin-Tai Wu and Yi Fang*. IEEE Big Data 2020. [[pdf](https://arxiv.org/pdf/2011.03158.pdf)]
 2. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**. *Wang, Zhecheng, Haoyuan Li and R. Rajagopal*. AAAI 2020. [[pdf](https://arxiv.org/pdf/2001.11101.pdf)]
 3. **Unsupervised Representation Learning of Spatial Data via Multimodal Embedding**. *Jenkins, P., A. Farag, Suhang Wang and Z. Li*. CIKM 2019. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]
