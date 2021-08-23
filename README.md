@@ -7,8 +7,8 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### Contents
 
-* [0. Papers](#0-papers)
-* [1. Preprints](#1-preprints)
+* [0. Papers](#1.papers)
+* [1. Preprints](#preprints)
 * [Acknowledgements](#acknowledgements)
 
 
