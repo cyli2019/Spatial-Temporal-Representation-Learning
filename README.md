@@ -1,7 +1,7 @@
-# Spatial-Temporal-Representation-Learning
+# Spatial Temporal Representation Learning
 Must-read Papers on Spatial Temporal Representation Learning
 
-Mainly Contributed and Maintained by Chengyin Li, .... 
+Mainly Contributed and Maintained by Chengyin Li and Yao Qiang.
 
 Thanks for all great [contributors](#acknowledgements) on GitHub!
 
