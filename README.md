@@ -15,7 +15,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 ## Papers
 
 1. **Pre-training Context and Time Aware Location Embeddings from Spatial-Temporal Trajectories for User Next Location Prediction**. *Lin, Yan, Huaiyu Wan, Shengna Guo and Youfang Lin*. AAAI (2021).[[pdf](http://faculty.bjtu.edu.cn/media/rte/file/2021/2/1/1612145733.pdf)]
-2. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**. *Wang, Zhecheng, Haoyuan Li and R. Rajagopal*. AAAI (2020). [[pdf](https://arxiv.org/pdf/2001.11101.pdf)[code](https://github.com/mingyangzhang/mv-region-embedding.git)]
+2. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**. *Wang, Zhecheng, Haoyuan Li and R. Rajagopal*. AAAI (2020). [[pdf](https://arxiv.org/pdf/2001.11101.pdf)] [[code](https://github.com/mingyangzhang/mv-region-embedding.git)]
 3.  **Multi-View Joint Graph Representation Learning for Urban Region Embedding**. *Zhang, Mingyang, Tong Li, Y. Li and Pan Hui*. IJCAI (2020). [[pdf](https://www.ijcai.org/proceedings/2020/0611.pdf)]
 4. **Exploiting Mutual Information for Substructure-aware Graph Representation Learning**. *Wang, Pengyang, Yanjie Fu, Yuanchun Zhou, Kunpeng Liu, Xiaolin Li and K. Hua*. IJCAI (2020). [[pdf](https://www.ijcai.org/proceedings/2020/0472.pdf)]
 5. **Leveraging an Efficient and Semantic Location Embedding to Seek New Ports of Bike Share Services**. *Wang, Yuan, Chenwei Wang, Yinan Ling, Keita Yokoyama, Hsin-Tai Wu and Yi Fang*. IEEE Big Data (2020). [[pdf](https://arxiv.org/pdf/2011.03158.pdf)]
