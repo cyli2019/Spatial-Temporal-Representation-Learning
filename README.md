@@ -34,6 +34,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ## Some Applications
 1.**GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting**. Wang, Beibei, Youfang Lin, Shengnan Guo, and Huaiyu Wan. AAAI (2021). [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16566/16373)] [[code](https://github.com/Echohhhhhh/GSNet)]
+
 2. **Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting.** Song, Chao, Youfang Lin, Shengnan Guo, and Huaiyu Wan. AAAI (2020). [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5438/5294)] [[code](https://github.com/Davidham3/STSGCN)]
 
 ## Preprints
