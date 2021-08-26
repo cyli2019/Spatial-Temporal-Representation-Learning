@@ -8,8 +8,8 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 ### Contents
 
 * [Papers](#papers)
-* [Some Applications](#some-applications)
 * [Preprints](#preprints)
+* [Some Applications](#some-applications)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -34,14 +34,14 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 17. **Max-Margin DeepWalk: Discriminative Learning of Network Representation**. *Tu, Cunchao, Weichen Zhang, Zhiyuan Liu and Maosong Sun*. IJCAI (2016). [[pdf](https://www.ijcai.org/Proceedings/16/Papers/547.pdf)] [[code](https://github.com/thunlp/MMDW)]
 18. **DeepWalk: online learning of social representations**. *Perozzi, Bryan, Rami Al-Rfou and S. Skiena*.  KDD (2014). [[pdf](https://arxiv.org/pdf/1403.6652.pdf)] [[code](https://github.com/stefanosantaris/DeepWalk)]
 
-## Some Applications
-1. **GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting**. Wang, Beibei, Youfang Lin, Shengnan Guo, and Huaiyu Wan. AAAI (2021). [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16566/16373)] [[code](https://github.com/Echohhhhhh/GSNet)]
-2. **Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting.** Song, Chao, Youfang Lin, Shengnan Guo, and Huaiyu Wan. AAAI (2020). [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5438/5294)] [[code](https://github.com/Davidham3/STSGCN)]
-
 ## Preprints
 1. **Modelling Urban Dynamics with Multi-Modal Graph Convolutional Networks**. *D'Silva, Krittika, Jordan Cambe, A. Noulas, C. Mascolo and Adam Waksman*. ArXiv (2021). [[pdf](https://arxiv.org/pdf/2104.14633.pdf)]
 2. **Learning Neighborhood Representation from Multi-Modal Multi-Graph: Image, Text, Mobility Graph and Beyond**. *Huang, Tianyuan, Zhecheng Wang, Hao Sheng, Andrew Ng and R. Rajagopal*. ArXiv (2021). [[pdf](https://arxiv.org/pdf/2105.02489.pdf)]
 3. **Variational graph auto-encoders**. Kipf, Thomas N., and Max Welling. ArXiv (2016). [[pdf](https://arxiv.org/pdf/1611.07308.pdf%5D)] [[code](https://github.com/tkipf/gae)]
+
+## Some Applications
+1. **GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting**. Wang, Beibei, Youfang Lin, Shengnan Guo, and Huaiyu Wan. AAAI (2021). [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16566/16373)] [[code](https://github.com/Echohhhhhh/GSNet)]
+2. **Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting.** Song, Chao, Youfang Lin, Shengnan Guo, and Huaiyu Wan. AAAI (2020). [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5438/5294)] [[code](https://github.com/Davidham3/STSGCN)]
 
 ## Acknowledgements
 We will continue to update this paper list. If you have any suggestions, you can add an issue. 
