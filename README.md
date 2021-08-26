@@ -43,6 +43,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 3. **Variational graph auto-encoders**. Kipf, Thomas N., and Max Welling. ArXiv (2016). [[pdf](https://arxiv.org/pdf/1611.07308.pdf%5D)] [[code](https://github.com/tkipf/gae)]
 
 ## Acknowledgements
+We will continue to update this paper list. If you have any suggestions, you can add an issue. 
 
 Great thanks to other contributors ! (names are not listed in particular order)
 
