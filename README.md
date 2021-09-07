@@ -35,6 +35,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 18. **POI2Vec: Geographical Latent Representation for Predicting Future Visitors**. *Shanshan Feng, Gao Cong, Bo An, Yeow Meng Chee*. AAAI (2017).[[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPDFInterstitial/14902/13749)]
 19. **Max-Margin DeepWalk: Discriminative Learning of Network Representation**. *Tu, Cunchao, Weichen Zhang, Zhiyuan Liu and Maosong Sun*. IJCAI (2016). [[pdf](https://www.ijcai.org/Proceedings/16/Papers/547.pdf)] [[code](https://github.com/thunlp/MMDW)]
 20. **DeepWalk: online learning of social representations**. *Perozzi, Bryan, Rami Al-Rfou and S. Skiena*.  KDD (2014). [[pdf](https://arxiv.org/pdf/1403.6652.pdf)] [[code](https://github.com/stefanosantaris/DeepWalk)]
+21. **Discovering Urban Functional Zones Using Latent Activity Trajectories** *Nicholas Jing Yuan, et al.,* KDD (2012). [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6871403&casa_token=5XfJ2xP5FWAAAAAA:PJ5DbL-X08zjoWtzD3jziBYUvLOk5lLZWnJzGFJmtRNrufnFlFv62YZPIjr5JEfpS5gz3STs&tag=1)]
 
 ## Preprints
 1. **Modelling Urban Dynamics with Multi-Modal Graph Convolutional Networks**. *D'Silva, Krittika, Jordan Cambe, A. Noulas, C. Mascolo and Adam Waksman*. ArXiv (2021). [[pdf](https://arxiv.org/pdf/2104.14633.pdf)]
