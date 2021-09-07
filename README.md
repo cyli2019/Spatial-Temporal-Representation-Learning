@@ -30,10 +30,11 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 13. **Tile2Vec: Unsupervised representation learning for spatially distributed data**. *Jean, Neal, Sherrie Wang, Anshul Samar, G. Azzari, D. Lobell and S. Ermon*. AAAI (2018). [[pdf](https://arxiv.org/pdf/1805.02855.pdf)] [[code](https://github.com/ermongroup/tile2vec)]
 14. **Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec**. *Qiu, J., Yuxiao Dong, Hao Ma, J. Li, Kuansan Wang and Jie Tang*. WSDM (2018). [[pdf](https://arxiv.org/pdf/1710.02971.pdf)] [[code](https://github.com/xptree/NetMF)]
 15. **Representing urban functions through zone embedding with human mobility patterns**. Yao, Zijun, Yanjie Fu, Bin Liu, Wangsu Hu, and Hui Xiong. IJCAI (2018). [[pdf](https://par.nsf.gov/servlets/purl/10074124)]
-16. **Region representation learning via mobility flow**. Wang, Hongjian, and Zhenhui Li. CIKM (2017). [[pdf](https://dl.acm.org/doi/pdf/10.1145/3132847.3133006)]
-17. **POI2Vec: Geographical Latent Representation for Predicting Future Visitors**. *Shanshan Feng, Gao Cong, Bo An, Yeow Meng Chee*. AAAI (2017).[[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPDFInterstitial/14902/13749)]
-18. **Max-Margin DeepWalk: Discriminative Learning of Network Representation**. *Tu, Cunchao, Weichen Zhang, Zhiyuan Liu and Maosong Sun*. IJCAI (2016). [[pdf](https://www.ijcai.org/Proceedings/16/Papers/547.pdf)] [[code](https://github.com/thunlp/MMDW)]
-19. **DeepWalk: online learning of social representations**. *Perozzi, Bryan, Rami Al-Rfou and S. Skiena*.  KDD (2014). [[pdf](https://arxiv.org/pdf/1403.6652.pdf)] [[code](https://github.com/stefanosantaris/DeepWalk)]
+16. **DeepMove: Predicting Human Mobility with Attentional Recurrent Networks** *Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin* WWW(2018)[[pdf](https://dl.acm.org/doi/pdf/10.1145/3178876.3186058?casa_token=49sHEGMu4_UAAAAA%3AY1b20PMAVfD8ylzc7z3uFqrqUm5jXGeA7epaGuzGTmK_zhHIc3FPThE6cEm2lr1OtoIomM__Xzk)]
+17. **Region representation learning via mobility flow**. Wang, Hongjian, and Zhenhui Li. CIKM (2017). [[pdf](https://dl.acm.org/doi/pdf/10.1145/3132847.3133006)]
+18. **POI2Vec: Geographical Latent Representation for Predicting Future Visitors**. *Shanshan Feng, Gao Cong, Bo An, Yeow Meng Chee*. AAAI (2017).[[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPDFInterstitial/14902/13749)]
+19. **Max-Margin DeepWalk: Discriminative Learning of Network Representation**. *Tu, Cunchao, Weichen Zhang, Zhiyuan Liu and Maosong Sun*. IJCAI (2016). [[pdf](https://www.ijcai.org/Proceedings/16/Papers/547.pdf)] [[code](https://github.com/thunlp/MMDW)]
+20. **DeepWalk: online learning of social representations**. *Perozzi, Bryan, Rami Al-Rfou and S. Skiena*.  KDD (2014). [[pdf](https://arxiv.org/pdf/1403.6652.pdf)] [[code](https://github.com/stefanosantaris/DeepWalk)]
 
 ## Preprints
 1. **Modelling Urban Dynamics with Multi-Modal Graph Convolutional Networks**. *D'Silva, Krittika, Jordan Cambe, A. Noulas, C. Mascolo and Adam Waksman*. ArXiv (2021). [[pdf](https://arxiv.org/pdf/2104.14633.pdf)]
