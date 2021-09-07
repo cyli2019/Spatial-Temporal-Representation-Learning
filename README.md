@@ -17,7 +17,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 1. **Pre-training Context and Time Aware Location Embeddings from Spatial-Temporal Trajectories for User Next Location Prediction**. *Lin, Yan, Huaiyu Wan, Shengna Guo and Youfang Lin*. AAAI (2021).[[pdf](http://faculty.bjtu.edu.cn/media/rte/file/2021/2/1/1612145733.pdf)]
 2. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**. *Wang, Zhecheng, Haoyuan Li and R. Rajagopal*. AAAI (2020). [[pdf](https://arxiv.org/pdf/2001.11101.pdf)]
-3.  **Multi-View Joint Graph Representation Learning for Urban Region Embedding**. *Zhang, Mingyang, Tong Li, Y. Li and Pan Hui*. IJCAI (2020). [[pdf](https://www.ijcai.org/proceedings/2020/0611.pdf)] [[code](https://github.com/mingyangzhang/mv-region-embedding.git)]
+3. **Multi-View Joint Graph Representation Learning for Urban Region Embedding**. *Zhang, Mingyang, Tong Li, Y. Li and Pan Hui*. IJCAI (2020). [[pdf](https://www.ijcai.org/proceedings/2020/0611.pdf)] [[code](https://github.com/mingyangzhang/mv-region-embedding.git)]
 4. **Exploiting Mutual Information for Substructure-aware Graph Representation Learning**. *Wang, Pengyang, Yanjie Fu, Yuanchun Zhou, Kunpeng Liu, Xiaolin Li and K. Hua*. IJCAI (2020). [[pdf](https://www.ijcai.org/proceedings/2020/0472.pdf)]
 5. **Leveraging an Efficient and Semantic Location Embedding to Seek New Ports of Bike Share Services**. *Wang, Yuan, Chenwei Wang, Yinan Ling, Keita Yokoyama, Hsin-Tai Wu and Yi Fang*. IEEE Big Data (2020). [[pdf](https://arxiv.org/pdf/2011.03158.pdf)]
 6. **Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning**. *Qiao, Ziyue, Pengyang Wang, Yanjie Fu, Yi Du, P. Wang and Yuanchun Zhou*. ICDM (2020). [[pdf](http://arxiv.org/pdf/2008.10003)] [[code](https://github.com/joe817/T-GNN)]
@@ -31,8 +31,9 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 14. **Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec**. *Qiu, J., Yuxiao Dong, Hao Ma, J. Li, Kuansan Wang and Jie Tang*. WSDM (2018). [[pdf](https://arxiv.org/pdf/1710.02971.pdf)] [[code](https://github.com/xptree/NetMF)]
 15. **Representing urban functions through zone embedding with human mobility patterns**. Yao, Zijun, Yanjie Fu, Bin Liu, Wangsu Hu, and Hui Xiong. IJCAI (2018). [[pdf](https://par.nsf.gov/servlets/purl/10074124)]
 16. **Region representation learning via mobility flow**. Wang, Hongjian, and Zhenhui Li. CIKM (2017). [[pdf](https://dl.acm.org/doi/pdf/10.1145/3132847.3133006)]
-17. **Max-Margin DeepWalk: Discriminative Learning of Network Representation**. *Tu, Cunchao, Weichen Zhang, Zhiyuan Liu and Maosong Sun*. IJCAI (2016). [[pdf](https://www.ijcai.org/Proceedings/16/Papers/547.pdf)] [[code](https://github.com/thunlp/MMDW)]
-18. **DeepWalk: online learning of social representations**. *Perozzi, Bryan, Rami Al-Rfou and S. Skiena*.  KDD (2014). [[pdf](https://arxiv.org/pdf/1403.6652.pdf)] [[code](https://github.com/stefanosantaris/DeepWalk)]
+17. **POI2Vec: Geographical Latent Representation for Predicting Future Visitors**. *Shanshan Feng, Gao Cong, Bo An, Yeow Meng Chee*. AAAI (2017).[[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPDFInterstitial/14902/13749)]
+18. **Max-Margin DeepWalk: Discriminative Learning of Network Representation**. *Tu, Cunchao, Weichen Zhang, Zhiyuan Liu and Maosong Sun*. IJCAI (2016). [[pdf](https://www.ijcai.org/Proceedings/16/Papers/547.pdf)] [[code](https://github.com/thunlp/MMDW)]
+19. **DeepWalk: online learning of social representations**. *Perozzi, Bryan, Rami Al-Rfou and S. Skiena*.  KDD (2014). [[pdf](https://arxiv.org/pdf/1403.6652.pdf)] [[code](https://github.com/stefanosantaris/DeepWalk)]
 
 ## Preprints
 1. **Modelling Urban Dynamics with Multi-Modal Graph Convolutional Networks**. *D'Silva, Krittika, Jordan Cambe, A. Noulas, C. Mascolo and Adam Waksman*. ArXiv (2021). [[pdf](https://arxiv.org/pdf/2104.14633.pdf)]
